@@ -1,1 +1,0 @@
-V18: Thống kê kW/kWh hiển thị tất cả mức công suất từ danh mục sản phẩm, kể cả các model tồn 0 (ví dụ 3.6 kW). Biểu đồ tròn chỉ tính hàng tồn thực tế; nếu tổng bằng 0 thì biểu đồ rỗng nhưng bảng vẫn hiển thị 0. Giữ nguyên tính năng V17.
