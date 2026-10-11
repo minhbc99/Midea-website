@@ -1,0 +1,1 @@
+V20: Xuất Excel bổ sung sheet Thong ke theo model (có tồn 0, số lượng PO chờ về) và Thong ke cong suat (Midea/Hiconics, kW/kWh, có mức 0). Giữ nguyên các sheet PSI, lịch sử, đơn nhập kho.

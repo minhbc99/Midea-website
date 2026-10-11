@@ -1,0 +1,1 @@
+V17: Tổng quan có thống kê số lượng tồn theo công suất inverter kW và pin kWh, tách Midea/Hiconics, 4 biểu đồ tròn donut cùng bảng số lượng. Cập nhật tự động theo số tồn thực tế, không cộng PO chờ. Không thay đổi dữ liệu trình duyệt.

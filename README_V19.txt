@@ -1,0 +1,1 @@
+V19: thêm 5 PO theo ảnh, tháng 8 đã về hàng (275), tháng 9 đợt 1 (160), tháng 9 đợt 2 (140), tháng 10 (235), tháng 11 (320) đang chờ. Tự thêm nếu chưa có mã PO trong localStorage, tránh trùng. PO đã về tháng 8 cộng tồn một lần. Dữ liệu vẫn lưu riêng theo trình duyệt.
